@@ -21,3 +21,4 @@ non exhaustive list and no special ordering:
 - <https://huggingface.co/spaces> (demo usecases)
 - Here a very detailed list of commercial and open source GenAI products for instructors, researchers or students for teaching, learning or research tasks: <https://airtable.com/appDdnPzOZBNyqi0L/shrQmua7FSb6xgLvu/tbla4cQnnCQmwK1hr>
 - LLM Benchmark Suite for Humanities Image Data and compare model performance [RISE Humanities Data Benchmark](https://rise-services.rise.unibas.ch/benchmarks/)
+- Hosted models at chat-ai with advantages, context window, organization and other details: [Available Models](<https://docs.hpc.gwdg.de/services/ai-services/chat-ai/models/index.html>)
