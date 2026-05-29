@@ -26,6 +26,6 @@ non exhaustive list and no special ordering:
 
 ## Search without AI summary
 
-<https://noai.duckduckgo.com/>
-<https://www.startpage.com>
-Replace `%s` with your query in <https://www.google.com/search?q=%s&udm=14>
+- <https://noai.duckduckgo.com/>
+- <https://www.startpage.com>
+- Replace `%s` with your query in <https://www.google.com/search?q=%s&udm=14>
